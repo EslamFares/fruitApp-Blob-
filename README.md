@@ -1,5 +1,10 @@
-# lesson_7
+# fruitApp-Blob
 
+<p float="left">
+  <img src="https://github.com/EslamFares/fruitApp-Blob-/blob/master/img_from_app/2.png" width="200" />
+  <img src="https://github.com/EslamFares/fruitApp-Blob-/blob/master/img_from_app/3.png" width="200" /> 
+  <img src="https://github.com/EslamFares/fruitApp-Blob-/blob/master/img_from_app/1.png" width="200" />
+</p>
 A new Flutter project.
 
 ## Getting Started
